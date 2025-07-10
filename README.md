@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-these file were created to run on a cron tab within bash, in order to:
-    make a consistent buying spree for an amount of bitcoin everyday
-    send yourself an updated email once a week of the prices purchased at
-        total quantity, etc.
 =======
 # Kraken Trading Scripts
 
